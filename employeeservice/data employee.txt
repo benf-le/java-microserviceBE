@@ -1,0 +1,101 @@
+[
+    {
+        "firstName": "Jenifer",
+        "lastName": "Kenly",
+        "avatarUrl": "https://example.com/avatar1",
+        "department": "IT",
+        "kin": "2",
+        "role": "Dev",
+        "isDisciplined": false
+    },
+    {
+        "firstName": "John",
+        "lastName": "Smith",
+        "avatarUrl": "https://example.com/avatar2",
+        "department": "HR",
+        "kin": "1",
+        "role": "QA",
+        "isDisciplined": true
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "Johnson",
+        "avatarUrl": "https://example.com/avatar3",
+        "department": "Marketing",
+        "kin": "3",
+        "role": "PM",
+        "isDisciplined": false
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "avatarUrl": "https://example.com/avatar4",
+        "department": "Finance",
+        "kin": "4",
+        "role": "Dev",
+        "isDisciplined": true
+    },
+    {
+        "firstName": "Sophia",
+        "lastName": "Davis",
+        "avatarUrl": "https://example.com/avatar5",
+        "department": "IT",
+        "kin": "2",
+        "role": "QA",
+        "isDisciplined": false
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Miller",
+        "avatarUrl": "https://example.com/avatar6",
+        "department": "Marketing",
+        "kin": "1",
+        "role": "PM",
+        "isDisciplined": true
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "White",
+        "avatarUrl": "https://example.com/avatar7",
+        "department": "HR",
+        "kin": "3",
+        "role": "Dev",
+        "isDisciplined": false
+    },
+    {
+        "firstName": "William",
+        "lastName": "Martinez",
+        "avatarUrl": "https://example.com/avatar8",
+        "department": "Finance",
+        "kin": "4",
+        "role": "QA",
+        "isDisciplined": true
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Thompson",
+        "avatarUrl": "https://example.com/avatar9",
+        "department": "IT",
+        "kin": "2",
+        "role": "PM",
+        "isDisciplined": false
+    },
+    {
+        "firstName": "Ethan",
+        "lastName": "Taylor",
+        "avatarUrl": "https://example.com/avatar10",
+        "department": "Marketing",
+        "kin": "1",
+        "role": "Dev",
+        "isDisciplined": true
+    },
+    {
+        "firstName": "Sophie",
+        "lastName": "Johnson",
+        "avatarUrl": "https://example.com/avatar11",
+        "department": "HR",
+        "kin": "3",
+        "role": "QA",
+        "isDisciplined": false
+    }
+]

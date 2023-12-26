@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5b3e9b3-c2a3-47bd-9bb0-8f57606cf382" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/ComputerGraphics/bai1/main1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/salee-course/prisma/schema.prisma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apigateway/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/src/main/java/com/example/bookservice/command/command/RollBackStatusBookCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/src/main/java/com/example/bookservice/command/command/UpdateStatusBookCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/src/main/java/com/example/bookservice/command/event/BookRollBackStatusEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/src/main/java/com/example/bookservice/command/event/BookUpdateStatusEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/src/main/java/com/example/bookservice/query/model/BookResponseCommonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookservice/src/main/java/com/example/bookservice/query/queries/GetDetailsBookQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/command/api/command/RollBackStatusBookCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/command/api/command/UpdateStatusBookCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/command/api/events/BookRollBackStatusEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/command/api/events/BookUpdateStatusEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/command/api/model/BookResponseCommonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/command/api/model/EmployeeResponseCommonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/query/model/BookResponseCommonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/query/model/EmployeeResponseCommonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/query/queries/GetDetailsBookQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrowingservice/src/main/java/com/example/borrowingservice/query/queries/GetDetailsEmployeeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discoveryserver/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employeeservice/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employeeservice/src/main/java/com/example/employeeservice/query/model/EmployeeResponseCommonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employeeservice/src/main/java/com/example/employeeservice/query/queries/GetDetailsEmployeeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/craw_data/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject/bt_dohoa_19092023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject/dohoa_19092023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject/thi_giua_ki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject/thi_giua_ki_Khanh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject1/product/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject1/product/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject1/user/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/pythonProject1/user/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/tripadvisor-scraper-master/cao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craw_data/Đánh giá và chuyến bay của Vietnam Airlines - Tripadvisor.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2a4bVHYx5wfvMmni0laDOJCWRrQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JetBrains/IntelliJ IDEA (Java)Project/java-microserviceBE/employeeservice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;50e24e4f8bc7f9eb088fc0f3b0f25d38&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JetBrains\IntelliJ IDEA (Java)Project\java-microserviceBE\employeeservice" />
+      <recent name="D:\JetBrains\IntelliJ IDEA (Java)Project\java-microserviceBE\bookservice" />
+      <recent name="D:\JetBrains\IntelliJ IDEA (Java)Project\java-microserviceBE\apigateway" />
+      <recent name="D:\JetBrains\IntelliJ IDEA (Java)Project\java-microserviceBE\discoveryserver" />
+      <recent name="D:\JetBrains\IntelliJ IDEA (Java)Project\java-microserviceBE\bookservice\src\main\java\com\example\bookservice\query\queries" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.employeeservice.query.queries" />
+      <recent name="com.example.employeeservice.query.model" />
+      <recent name="com.example.borrowingservice.query.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApigatewayApplication">
+    <configuration name="ApigatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="apigateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApigatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="bookservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bookservice.BookserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorrowingserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="borrowingservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.borrowingservice.BorrowingserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="commonservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.commonservice.CommonserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discoveryserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discoveryserver.DiscoveryserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employeeservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.employeeservice.EmployeeserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="notificationservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.notificationservice.NotificationserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b3e9b3-c2a3-47bd-9bb0-8f57606cf382" name="Changes" comment="" />
+      <created>1703580820317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703580820317</updated>
+      <workItem from="1703580821365" duration="117000" />
+      <workItem from="1703580974658" duration="3144000" />
+      <workItem from="1703587761113" duration="1206000" />
+      <workItem from="1703590683331" duration="452000" />
+      <workItem from="1703591642744" duration="3942000" />
+      <workItem from="1703607707767" duration="1798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+
+services:
+  discoveryserver:
+    build:
+      context: discoveryserver
+      dockerfile: Dockerfile
+    image: discoveryserver:0.0.1
+    ports:
+      - 8761:8761
+
+  apigateway:
+    build:
+      context: apigateway
+      dockerfile: Dockerfile
+    image: apigateway:0.0.1
+    ports:
+      - 9000:9000
+
+
+  bookservice:
+    build:
+      context: bookservice
+      dockerfile: Dockerfile
+    image: bookservice:0.0.1
+    ports:
+      - 9001:9001
+
+  employeeservice:
+    build:
+      context: employeeservice
+      dockerfile: Dockerfile
+    image: employeeservice:0.0.1
+    ports:
+      - 9002:9002
+
